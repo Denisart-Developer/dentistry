@@ -1,0 +1,190 @@
+@font-face {
+    font-family: 'icons';
+    src:  url('../fonts/icons.eot?vesta4');
+    src:  url('../fonts/icons.eot?vesta4#iefix') format('embedded-opentype'),
+      url('../fonts/icons.ttf?vesta4') format('truetype'),
+      url('../fonts/icons.woff?vesta4') format('woff'),
+      url('../fonts/icons.svg?vesta4#icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: inline-block;
+  }
+  
+  [class^="_icon-"]::before, [class*=" _icon-"]::before {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icons' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  ._icon-terapevt:before {
+    content: "\e91c";
+    
+  }
+  ._icon-pig:before {
+    content: "\e91e";
+    color: #00c8c8;
+  }
+  ._icon-phonemob .path1:before {
+    content: "\e91d";
+    color: rgb(0, 200, 200);
+  }
+  ._icon-phonemob .path2:before {
+    content: "\e92d";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+  }
+  ._icon-phonemob .path3:before {
+    content: "\e92e";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+  }
+  ._icon-phonemob .path4:before {
+    content: "\e92f";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+  }
+  ._icon-year:before {
+    content: "\e900";
+    color: #00c8c8;
+  }
+  ._icon-anastez:before {
+    content: "\e901";
+    
+  }
+  ._icon-arrow:before {
+    content: "\e902";
+    
+  }
+  ._icon-breket:before {
+    content: "\e903";
+    
+  }
+  ._icon-calendar:before {
+    content: "\e904";
+    color: #00c8c8;
+  }
+  ._icon-checked .path1:before {
+    content: "\e905";
+    color: rgb(50, 186, 124);
+  }
+  ._icon-checked .path2:before {
+    content: "\e906";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+  }
+  ._icon-checked .path3:before {
+    content: "\e907";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+  }
+  ._icon-checkedclose .path1:before {
+    content: "\e908";
+    color: rgb(255, 107, 23);
+  }
+  ._icon-checkedclose .path2:before {
+    content: "\e909";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+  }
+  ._icon-checkedclose .path3:before {
+    content: "\e90a";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+  }
+  ._icon-cooperation:before {
+    content: "\e90b";
+    color: #00c8c8;
+  }
+  ._icon-dental:before {
+    content: "\e90c";
+    color: #00c8c8;
+  }
+  ._icon-dentist:before {
+    content: "\e90d";
+    color: #00c8c8;
+  }
+  ._icon-destrzub:before {
+    content: "\e90e";
+    color: #fff;
+  }
+  ._icon-exp:before {
+    content: "\e90f";
+    color: #00c8c8;
+  }
+  ._icon-geo:before {
+    content: "\e910";
+    color: #00c8c8;
+    
+    
+  }
+  ._icon-hirurg:before {
+    content: "\e911";
+    
+  }
+  ._icon-implant:before {
+    content: "\e912";
+    
+  }
+  ._icon-innovation:before {
+    content: "\e913";
+    color: #00c8c8;
+  }
+  ._icon-instagram:before {
+    content: "\e914";
+    
+  }
+  ._icon-lab:before {
+    content: "\e915";
+    color: #00c8c8;
+  }
+  ._icon-nozub:before {
+    content: "\e916";
+    color: #fff;
+  }
+  ._icon-onezub:before {
+    content: "\e917";
+    color: #fff;
+  }
+  ._icon-orto:before {
+    content: "\e918";
+    
+  }
+  ._icon-rating:before {
+    content: "\e919";
+    color: #00c8c8;
+  }
+  ._icon-rost:before {
+    content: "\e91a";
+    color: #00c8c8;
+  }
+  ._icon-shape:before {
+    content: "\e91b";
+    color: #00c8c8;
+    
+    
+  }
+  ._icon-telegram:before {
+    content: "\e928";
+    
+  }
+  ._icon-topoborud:before {
+    content: "\e92a";
+    color: #00c8c8;
+  }
+  ._icon-vk:before {
+    content: "\e92b";
+    
+  }
+  ._icon-watsapp:before {
+    content: "\e92c";
+    
+  }
